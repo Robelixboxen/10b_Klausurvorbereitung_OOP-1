@@ -9,6 +9,6 @@ public class Test {
     	// this --> Instanzvariable
 		// verweist aus der Instanz auf sich selbst
    
-
+	// das ganze unbeding anschauen!!!!!!!!!!
 
 }

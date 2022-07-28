@@ -8,9 +8,9 @@ public class App {
     // Test --> Referenztyp (reference type)
     // Object <--> Instanz
 
-    Test test  = new Test();
-    System.out.println("Referenzvariable: " + test);
-    test.showAddress();
+    Test test  = new Test();  // aus der Klassse ein neues Objekt erzeugen!
+    System.out.println("Referenzvariable: " + test); // => test = Referenzvariable
+    test.showAddress();  // => test = Referenztyp
 
     }
 
